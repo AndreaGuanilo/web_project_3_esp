@@ -1,0 +1,26 @@
+.button__content {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+  color: #FFFFFF;
+  font-family: 'Inter';
+  margin: 0%;
+}
+@media screen and (min-width: 545px) and (max-width: 1024px) {
+  .button__content {
+      max-width: 352px;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 163%;
+  }
+} 
+@media screen and (min-width: 315px) and (max-width: 544px) {
+  .button__content {
+      max-width: 288px;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 17px;
+  }
+}

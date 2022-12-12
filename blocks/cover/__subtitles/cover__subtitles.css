@@ -1,0 +1,16 @@
+.cover__subtitles {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  margin: 0%;
+}
+@media screen and (min-width: 315px) and (max-width: 544px) {
+  .cover__subtitles {
+      max-width: 320px;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 16px;
+  }
+} 
