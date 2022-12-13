@@ -1,4 +1,6 @@
 @import url(/styles/normalize.css);
+@import url(/fonts/Interweb/inter.css);
+
 
 /* ########### PAGE ########### */
 @import url(../blocks/page/page.css);

@@ -1,8 +1,6 @@
 .header__logo {
-    display: block;
-    max-width: 720px;
-    height: auto;
-    margin: 0%;
+    max-width: 270px;
+    margin: auto;
     margin-top: 34px;
     margin-bottom: 91px;
 }
@@ -11,4 +9,4 @@
         max-width: 200px;
         margin-bottom: 50.15px;
       }
-  } 
+  }
