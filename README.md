@@ -26,4 +26,3 @@ Queda pendiente el añadir los links correspondientes y enlazarlos a la página.
 También se podrían añadir formularios para utilizar al 100% lo aprendido en el primer sprint, quizá a modo de subscripción a la página web.
 
 * [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1) 
-* Enlace al proyecto publicado en GitHub (https://andreaguanilo.github.io/web_project_3_esp/)
